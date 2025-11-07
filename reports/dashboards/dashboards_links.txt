@@ -1,0 +1,38 @@
+DASHBOARDS INTERACTIVOS (TABLEAU PUBLIC)
+
+Proyecto: Análisis de Eficiencia Operativa - CallMeMaybe
+Autor: David Arreola Guerrero
+
+================================================================================
+
+📊 Dashboard 1:
+Análisis de Duración y Distribución de Llamadas
+
+Propósito: 
+- Analizar patrones de duración y tipos de llamada.
+
+Componentes:
+- Gráfico circular interno/externo.
+- Filtro por dirección (entrante/saliente).
+- Insight clave: 97.6% de llamadas son externas.
+
+🔗Link:
+https://public.tableau.com/views/Telecom_Dashboard_1_In-Out_up/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+================================================================================
+
+📊 Dashboard 2:
+Análisis Temporal y Tipología de Llamadas
+
+Propósito: 
+- Monitorear volumen diario y composición de las llamadas.
+Componentes:
+- Gráfico circular interno/externo.
+- Filtro por tipo de llamada (internas/externas).
+- Insight clave: Incremento sostenido de llamadas agosto-noviembre 2019.
+
+🔗Link:
+https://public.tableau.com/app/profile/dave.ag7944/viz/shared/H2DT3NZWJ
+
+

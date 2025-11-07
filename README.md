@@ -9,8 +9,8 @@ Análisis de datos para identificar operadores ineficaces en la plataforma CallM
 - Entregar conclusiones y recomendaciones accionables para supervisores.
 
 ## Tecnologías y librerías
-- Python (pandas, numpy, matplotlib, seaborn, scipy, scikit-learn)
-- Jupyter Notebook (análisis reproducible)
+- Python (pandas, numpy, matplotlib, seaborn, scipy, scikit-learn).
+- Jupyter Notebook (análisis reproducible).
 
 ## Conclusiones
 - Se identificaron **113 operadores ineficaces** (10.4% del total) mediante un sistema de scoring multidimensional validado estadísticamente.  
